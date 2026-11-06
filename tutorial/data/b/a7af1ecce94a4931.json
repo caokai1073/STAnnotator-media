@@ -1,0 +1,1 @@
+{"version": 4, "mode": "plausibility", "items": [{"key": "likely mislabel", "label": "out of place, model unsure", "color": [230, 30, 30], "count": 116}, {"key": "isolated, model confident", "label": "out of place, model confident", "color": [255, 170, 0], "count": 449}, {"key": "ok", "label": "fits its surroundings or not checked", "color": [170, 170, 170], "count": 56287}]}

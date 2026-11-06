@@ -1,0 +1,1 @@
+{"embedding": {"run_id": "20261107-164522", "n_pcs": 30, "n_neighbors": 15, "min_dist": 0.3, "resolution": 1.0, "n_clusters": 28, "seconds": 9.6, "project": "ileum_colon", "slices": ["147328", "167799"], "harmony": true}}
