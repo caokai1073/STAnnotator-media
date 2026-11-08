@@ -1,0 +1,1 @@
+{"stage": "done", "progress": 1.0, "done": true, "error": null, "log": ["reading /Users/me/Downloads/scp2927/scp2927_147328_shifted.h5ad", "16,679 cells, 480 genes", "registration: 100.0% of cells inside the image", "image: 0.692 um/px (H&E)", "estimating distance to the epithelium", "imported sample shifted_demo into /Users/me/stagent/samples/shifted_demo"]}
