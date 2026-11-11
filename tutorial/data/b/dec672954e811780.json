@@ -1,1 +1,0 @@
-{"params": {"min_counts": 20, "min_genes": 10, "min_cells": 10}, "n_cells": 60167, "n_cells_kept": 56852, "removed_by": {"min_counts": 3232, "min_genes": 799}, "n_genes": 480, "n_genes_kept": 478, "genes_removed": ["IFNL3", "RETN"], "slices": [{"sample_id": "147328", "n_cells": 60167, "n_cells_kept": 56852}]}
