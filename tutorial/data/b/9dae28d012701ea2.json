@@ -1,0 +1,1 @@
+{"projects": [{"project_id": "ileum_colon", "name": "ileum_colon", "samples": ["147328", "167799"], "slices": {"147328": {"section": "147328", "metadata": {}}, "167799": {"section": "167799", "metadata": {}}}, "created_at": "2026-11-13T13:41:49"}], "reordered": []}
