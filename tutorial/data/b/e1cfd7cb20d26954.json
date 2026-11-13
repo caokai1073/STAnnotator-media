@@ -1,0 +1,1 @@
+{"projects": [{"project_id": "ileum_colon", "name": "ileum_colon", "samples": ["147328", "167799"], "runs": [{"run": "20261113-122717", "label": "2026-11-13 12:27", "sessions": {"147328": "147328_20261113-122717_eda0", "167799": "167799_20261113-122717_4db3"}, "complete": true}]}]}

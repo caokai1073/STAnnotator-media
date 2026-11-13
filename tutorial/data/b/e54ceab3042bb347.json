@@ -1,1 +1,0 @@
-{"stage": "done", "progress": 1.0, "done": true, "error": null, "kind": "regfix", "sample": "shifted_demo", "started": 1794422742.833965, "result": {"moved_um_max": 16.3, "moved_um_median": 0.0, "figure": "placement_1794422743.jpg", "after_median_um": 1.0, "after_share_off": 0.0}, "elapsed_s": 1.0}
