@@ -1,0 +1,1 @@
+{"stage": "done", "progress": 1.0, "done": true, "error": null, "kind": "autoalign", "sample": "147328", "started": 1795723854.118308, "result": {"applied": true, "reason": null, "candidate": "K1", "orientation": "rotated 180", "ambiguous": false, "verdict": "fine", "median_um": 1.0, "tried": 3}, "elapsed_s": 13.1}

@@ -1,1 +1,0 @@
-{"width": 2907, "height": 2763, "tile_size": 512, "origin": [0, 0], "um_per_px": 0.6918981669575552, "image_kind": "H&E", "rev": 1795324254, "image_error": null, "image_only": false, "um_per_px_known": true, "image_errors": {}, "images": [{"id": "main", "name": "H&E", "kind": "H&E", "frame": true, "source": "frame", "rev": "f22ae527"}]}
